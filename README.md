@@ -4,6 +4,8 @@ Projeto de estudo para praticar HTML, CSS e JavaScript. Escolhi a APAE de Franca
 
 > Este projeto não é um sistema oficial da APAE. Foi feito apenas para fins de estudo.
 
+**Acesse o projeto online:** [joaobelloti.github.io/dashboard-doacoes-apae](https://joaobelloti.github.io/dashboard-doacoes-apae/)
+
 ![Tela do dashboard](print.png)
 
 ## Como foi feito
